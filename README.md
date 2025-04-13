@@ -28,12 +28,11 @@ Hello, I'm Iqbal, working at Coupa Software. I'm passionate about learning and e
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
 # 🚧 My Projects:
 Here are some personal projects I’ve worked on:
 - 🌤 **[Weather Operator](https://github.com/singhiqbal1007/weather-operator)** — A Kubernetes operator written in Go using the Operator SDK framework to fetch and display weather info for a specified city.
-- 🔐 **[Rails OAuth Example](https://github.com/singhiqbal1007/rails-oauth-example)** — Implements secure OAuth 2.0 and password authentication in Ruby on Rails. Containerized with Docker and deployed to Heroku using GitHub Actions for CI/CD.
+- 🔐 **[Rails OAuth](https://github.com/singhiqbal1007/rails-oauth-example)** — Implements secure OAuth 2.0 and password authentication in Ruby on Rails. Containerized with Docker and deployed to Heroku using GitHub Actions for CI/CD.
 - 📓 **[Jupyter Multi](https://github.com/singhiqbal1007/jupyter-multi)** — Jupyter Notebook setup supporting multiple kernels including Java, Ruby, and Python for multi-language exploration.
 - 💾 **[MysqlExport](https://github.com/singhiqbal1007/mysqlexport)** — A Ruby gem providing both a binary and Ruby interface to export MySQL tables to CSV or JSON.
 
