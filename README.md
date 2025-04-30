@@ -32,7 +32,7 @@ Hello, I'm Iqbal, working at Coupa Software. I'm passionate about learning and e
 # 🚧 My Projects:
 Here are some personal projects I’ve worked on:
 - 🌤 **[Weather Operator](https://github.com/singhiqbal1007/weather-operator)** — A Kubernetes operator written in Go using the Operator SDK framework to fetch and display weather info for a specified city.
-- 🔐 **[Rails OAuth](https://github.com/singhiqbal1007/rails-oauth-example)** — Implements secure OAuth 2.0 and password authentication in Ruby on Rails. Containerized with Docker and deployed to Heroku using GitHub Actions for CI/CD.
+- 🔐 **[Rails OAuth](https://github.com/singhiqbal1007/rails-oauth-example)** — Implements secure OAuth 2.0 and password authentication in Ruby on Rails. Containerized with Docker and deployed to Render using GitHub Actions for CI/CD.
 - 📓 **[Jupyter Multi](https://github.com/singhiqbal1007/jupyter-multi)** — Jupyter Notebook setup supporting multiple kernels including Java, Ruby, and Python for multi-language exploration.
 - 💾 **[MysqlExport](https://github.com/singhiqbal1007/mysqlexport)** — A Ruby gem providing both a binary and Ruby interface to export MySQL tables to CSV or JSON.
 
